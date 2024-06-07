@@ -52,7 +52,7 @@ export function Hero() {
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href=""
           target="_blank"
           rel="noreferrer"
         >
